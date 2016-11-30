@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="widget1" type="id"/>
+    <item name="widget2" type="id"/>
+    <item name="widget3" type="id"/>
+    <item name="widget4" type="id"/>
+    <item name="widget5" type="id"/>
+    <item name="widget6" type="id"/>
+    <item name="widget7" type="id"/>
+    <item name="widget8" type="id"/>
+    <item name="widget9" type="id"/>
+    <item name="widget10" type="id"/>
+</resources>
